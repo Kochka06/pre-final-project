@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    background: #DFE0E2;/* #0B3954 */
+    /* background-image: url(../img/a.jpg);
+    background-position: 0 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+
+}
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+table{
+    border: none;
+}
+.cont{
+    margin-top: 10px;
+}
+.cont-body{
+    margin-top: 10px;
+}
+
+footer .row{
+    background-color: #909EA4;
+}
+.main_content{
+    background: #6D8A96;/*#A2AEBB*/
+}
